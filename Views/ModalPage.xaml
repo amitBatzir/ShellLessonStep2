@@ -6,7 +6,7 @@
              Title="ModalPage">
     <VerticalStackLayout>
         <Label 
-            Text="This is a Modal Page!"
+            Text="This is a Monkey Page!"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
         <Button Text="Close me!" Clicked="Button_Clicked"/>
